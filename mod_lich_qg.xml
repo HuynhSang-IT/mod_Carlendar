@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="4.0" client="site" method="upgrade">
+	<name>mod_lich_qg</name>
+	<version>1.0.0</version>
+	<description>Module lịch quốc gia có chuyển tháng và âm lịch</description>
+	<files>
+		<filename module="mod_lich_qg">mod_lich_qg.php</filename>
+		<filename>helper.php</filename>
+		<folder>tmpl</folder>
+		<filename>mod_lich_qg.xml</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="layout" type="modulelayout" label="Kiểu bố cục" />
+			</fieldset>
+		</fields>
+	</config>
+</extension>
