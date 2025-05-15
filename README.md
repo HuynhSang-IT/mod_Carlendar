@@ -55,7 +55,7 @@ Bạn có thể tùy chỉnh file `mod_carlender.php` để hiển thị dữ li
 
 ## 📄 License
 
-GPL-2.0 License - Bạn có thể sửa đổi và sử dụng module theo giấy phép nguồn mở.
+GPL-3.0 License - Bạn có thể sửa đổi và sử dụng module theo giấy phép nguồn mở.
 
 ---
 
